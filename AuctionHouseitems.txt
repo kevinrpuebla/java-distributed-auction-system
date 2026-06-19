@@ -1,0 +1,5 @@
+Laptop,200.0
+Guitar,50.0
+Watch,120.0
+Bicycle,80.0
+Camera,150.0
